@@ -1,0 +1,30 @@
+*{
+    margin:0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+.navbar{
+    display: flex;
+    position: sticky;
+    top: 0;
+}
+h3{
+    width: 25%;
+    background-color:burlywood;
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+.title{
+    text-align: center;
+}
+article{
+    width: 450px;
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+}
